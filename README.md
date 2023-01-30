@@ -1,11 +1,4 @@
 ### Hi there 👋
-
-<!--
-**aslanaj/aslanaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- Hey there
 - I'm @aslanaj
 ![Instagram](https://www.instagram.com/aslan__aj//badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Telegram](https://t.me/aslan_aj/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
