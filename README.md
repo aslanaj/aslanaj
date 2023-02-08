@@ -10,14 +10,11 @@
 
 I am an Android Developer. I love programming, writing, speaking and traveling.
 
-
-
 <img align="right" alt="GIF" src="https://github.com/aslanaj/aslanaj/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
   
-
 **Talking about Personal Stuffs:**
 
-- <img src="https://github.com/aslanaj/aslanaj/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; 🌱 I’m currently learning java and kotlin ;
-- <img src="https://github.com/aslanaj/aslanaj/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; 👯 I'll be glad to co-work and learn something new.;
-- <img src="https://github.com/aslanaj/aslanaj/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; 📫 How to reach me: theajaslan@gmail.com;
+- 🌱 I’m currently learning java and kotlin ;
+- 👯 I'll be glad to co-work and learn something new.;
+- 📫 How to reach me: theajaslan@gmail.com;
 -->
