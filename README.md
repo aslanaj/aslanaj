@@ -10,7 +10,7 @@
 
 I am an Android Developer. I love programming, writing, speaking and traveling.
 
-<img align="right" alt="GIF" src="https://github.com/aslanaj/aslanaj/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/aslanaj/aslanaj/blob/main/coding.gif" width="408" height="318" />
   
 **Talking about Personal Stuffs:**
 
