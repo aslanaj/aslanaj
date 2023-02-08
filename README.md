@@ -14,7 +14,8 @@ I am an Android Developer. I love programming, writing, speaking and traveling.
   
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning java and kotlin ;
-- 👯 I'll be glad to co-work and learn something new.;
-- 📫 How to reach me: theajaslan@gmail.com;
+- <img src="https://github.com/aslanaj/aslanaj/blob/main/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;;
+- <img src="https://github.com/aslanaj/aslanaj/blob/main/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning java and kotlin ;
+- <img src="https://github.com/aslanaj/aslanaj/blob/main/message.gif?raw=true" width="21" />&nbsp;&nbsp; I'll be glad to co-work and learn something new.;
+- <img src="https://github.com/aslanaj/aslanaj/blob/main/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: theajaslan@gmail.com;
 -->
