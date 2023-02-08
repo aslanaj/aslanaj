@@ -5,7 +5,19 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Aslan_aj?t=ZDyrl6edboToL3KxPutC0w&s=09)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/aslan__a)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/aslan_aj)
-- 🌱 I’m currently learning java and kotlin 
-- 👯 I'll be glad to co-work and learn something new.
-- 📫 How to reach me: theajaslan@gmail.com
+
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=aslanaj)
+
+I am an Android Developer. I love programming, writing, speaking and traveling.
+
+
+
+<img align="right" alt="GIF" src="https://github.com/aslanaj/aslanaj/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+  
+
+**Talking about Personal Stuffs:**
+
+- <img src="https://github.com/aslanaj/aslanaj/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; 🌱 I’m currently learning java and kotlin ;
+- <img src="https://github.com/aslanaj/aslanaj/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; 👯 I'll be glad to co-work and learn something new.;
+- <img src="https://github.com/aslanaj/aslanaj/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; 📫 How to reach me: theajaslan@gmail.com;
 -->
