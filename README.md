@@ -4,6 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/aslanaj_/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/aslan_aj)
 
+
 ### Glad to see you here! &nbsp; 
 
 I am an Android Developer. I love programming, writing, speaking and traveling.
@@ -17,3 +18,17 @@ I am an Android Developer. I love programming, writing, speaking and traveling.
 - <img src="https://github.com/aslanaj/aslanaj/blob/main/message.gif?raw=true" width="21" />&nbsp;&nbsp; I'll be glad to co-work and learn something new.;
 - <img src="https://github.com/aslanaj/aslanaj/blob/main/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: theajaslan@gmail.com;
 -->
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>     <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
+  
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+</p>
+</br>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aslanaj&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aslanaj&theme=solarized_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aslanaj&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aslanaj&theme=solarized_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aslanaj&theme=solarized_dark)
