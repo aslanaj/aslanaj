@@ -32,3 +32,12 @@ I am an Android Developer. I love programming, writing, speaking and traveling.
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aslanaj&theme=solarized_dark)  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aslanaj&theme=solarized_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aslanaj&theme=solarized_dark)  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aslanaj&theme=solarized_dark)
+
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aslanaj&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslanaj&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
