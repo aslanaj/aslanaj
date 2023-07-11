@@ -29,9 +29,6 @@ I am an Android Developer. I love programming, writing, speaking and traveling.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aslanaj&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aslanaj&theme=solarized_dark)  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aslanaj&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aslanaj&theme=solarized_dark)  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aslanaj&theme=solarized_dark)
 
 
 📈 **My GitHub Stats:**
