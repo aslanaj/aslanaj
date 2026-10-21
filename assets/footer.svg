@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="100%" role="img" aria-label="end of transmission">
+<style>.a{font:500 13px ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;fill:#7df9ff;letter-spacing:6px} .b{font:italic 400 16px 'Segoe UI',Helvetica,Arial,sans-serif;fill:#8b97a8;letter-spacing:2px}</style>
+<text class="a" x="600" y="48" text-anchor="middle">— END OF TRANSMISSION —<animate attributeName="opacity" values=".35;1;.35" dur="3s" repeatCount="indefinite"/></text>
+<text class="b" x="600" y="84" text-anchor="middle">the road ends where the sky begins.</text>
+</svg>
