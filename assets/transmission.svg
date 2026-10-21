@@ -11,14 +11,14 @@
 <text x="44" y="130" fill="#e6edf3" clip-path="url(#c1)" xml:space="preserve">aslan_aj — developer · creator · engineer in progress</text>
 <clipPath id="c2"><rect x="40" y="144" height="28" width="0"><animate attributeName="width" values="0;0;187;187;0" keyTimes="0;0.156;0.212;0.925;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
 <text x="44" y="164" fill="#7df9ff" clip-path="url(#c2)" xml:space="preserve">$ cat mission.log</text>
-<clipPath id="c3"><rect x="40" y="178" height="28" width="0"><animate attributeName="width" values="0;0;634;634;0" keyTimes="0;0.234;0.291;0.925;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
-<text x="44" y="198" fill="#e6edf3" clip-path="url(#c3)" xml:space="preserve">[01] alvion performance ............................. ONLINE</text>
-<clipPath id="c4"><rect x="40" y="212" height="28" width="0"><animate attributeName="width" values="0;0;655;655;0" keyTimes="0;0.312;0.369;0.925;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
-<text x="44" y="232" fill="#e6edf3" clip-path="url(#c4)" xml:space="preserve">[02] software &amp; apps — kotlin · flutter · web ....... BUILDING</text>
-<clipPath id="c5"><rect x="40" y="246" height="28" width="0"><animate attributeName="width" values="0;0;655;655;0" keyTimes="0;0.391;0.447;0.925;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
-<text x="44" y="266" fill="#e6edf3" clip-path="url(#c5)" xml:space="preserve">[03] mechanical engineering ......................... IN ORBIT</text>
-<clipPath id="c6"><rect x="40" y="280" height="28" width="0"><animate attributeName="width" values="0;0;676;676;0" keyTimes="0;0.469;0.525;0.925;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
-<text x="44" y="300" fill="#ff4d5e" clip-path="url(#c6)" xml:space="preserve">[04] ███████████████ ................................ CLASSIFIED</text>
+<clipPath id="c3"><rect x="40" y="178" height="28" width="0"><animate attributeName="width" values="0;0;676;676;0" keyTimes="0;0.234;0.291;0.925;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+<text x="44" y="198" fill="#e6edf3" clip-path="url(#c3)" xml:space="preserve">[01] ALVION PERFORMANCE — auto customization studio ..... ONLINE</text>
+<clipPath id="c4"><rect x="40" y="212" height="28" width="0"><animate attributeName="width" values="0;0;696;696;0" keyTimes="0;0.312;0.369;0.925;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+<text x="44" y="232" fill="#e6edf3" clip-path="url(#c4)" xml:space="preserve">[02] software &amp; apps — kotlin · flutter · web ........... BUILDING</text>
+<clipPath id="c5"><rect x="40" y="246" height="28" width="0"><animate attributeName="width" values="0;0;696;696;0" keyTimes="0;0.391;0.447;0.925;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+<text x="44" y="266" fill="#e6edf3" clip-path="url(#c5)" xml:space="preserve">[03] mechanical engineering ............................. IN ORBIT</text>
+<clipPath id="c6"><rect x="40" y="280" height="28" width="0"><animate attributeName="width" values="0;0;717;717;0" keyTimes="0;0.469;0.525;0.925;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+<text x="44" y="300" fill="#ff4d5e" clip-path="url(#c6)" xml:space="preserve">[04] ███████████████ .................................... CLASSIFIED</text>
 <rect x="44" y="318" width="10" height="20" fill="#7df9ff" opacity="0">
  <animate attributeName="opacity" values="0;0;1;0;1;0;1;0" keyTimes="0;0.547;0.577;0.627;0.677;0.727;0.777;1" dur="16.0s" repeatCount="indefinite"/>
 </rect>
