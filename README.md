@@ -1,6 +1,6 @@
 <h3 align="left">Hi, I'm <a href="https://aslanaj.com/">Aslan AJ</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24"></h3>
 
-Developer & creator. I build things, make things, and share what I learn along the way.
+Developer & creator. I build techs, make software, and share what I learn along the way.
 
 <a href="https://aslanaj.com/"><img src="https://img.shields.io/badge/aslanaj.com-000000?style=flat-square&logo=google-chrome&logoColor=white" /></a>
 <a href="https://www.instagram.com/aslanjaskarov/"><img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white" /></a>
