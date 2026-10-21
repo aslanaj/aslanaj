@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://aslanaj.com/"><img src="https://img.shields.io/badge/aslanaj.com-05070d?style=for-the-badge&logo=googlechrome&logoColor=7df9ff" /></a>
-  <a href="https://alvionperformance.com/"><img src="https://img.shields.io/badge/Alvion_Performance-05070d?style=for-the-badge&logo=tesla&logoColor=ff2d3c" /></a>
   <a href="https://www.instagram.com/aslanjaskarov/"><img src="https://img.shields.io/badge/Instagram-05070d?style=for-the-badge&logo=instagram&logoColor=7df9ff" /></a>
   <a href="https://x.com/Aslan_aj"><img src="https://img.shields.io/badge/X-05070d?style=for-the-badge&logo=x&logoColor=7df9ff" /></a>
   <a href="mailto:theajaslan@gmail.com"><img src="https://img.shields.io/badge/Email-05070d?style=for-the-badge&logo=gmail&logoColor=7df9ff" /></a>

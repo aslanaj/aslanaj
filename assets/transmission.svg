@@ -12,7 +12,7 @@
 <clipPath id="c2"><rect x="40" y="144" height="28" width="0"><animate attributeName="width" values="0;0;187;187;0" keyTimes="0;0.156;0.212;0.925;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
 <text x="44" y="164" fill="#7df9ff" clip-path="url(#c2)" xml:space="preserve">$ cat mission.log</text>
 <clipPath id="c3"><rect x="40" y="178" height="28" width="0"><animate attributeName="width" values="0;0;634;634;0" keyTimes="0;0.234;0.291;0.925;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
-<text x="44" y="198" fill="#e6edf3" clip-path="url(#c3)" xml:space="preserve">[01] ALVION PERFORMANCE — wraps · ppf · tint ........ ONLINE</text>
+<text x="44" y="198" fill="#e6edf3" clip-path="url(#c3)" xml:space="preserve">[01] alvion performance ............................. ONLINE</text>
 <clipPath id="c4"><rect x="40" y="212" height="28" width="0"><animate attributeName="width" values="0;0;655;655;0" keyTimes="0;0.312;0.369;0.925;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
 <text x="44" y="232" fill="#e6edf3" clip-path="url(#c4)" xml:space="preserve">[02] software &amp; apps — kotlin · flutter · web ....... BUILDING</text>
 <clipPath id="c5"><rect x="40" y="246" height="28" width="0"><animate attributeName="width" values="0;0;655;655;0" keyTimes="0;0.391;0.447;0.925;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
